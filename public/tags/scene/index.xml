@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on SDR Telecom</title>
+    <link>https://sdrtelecom.com.br/tags/scene/</link>
+    <description>Recent content in scene on SDR Telecom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Apr 2017 11:14:48 -0400</lastBuildDate>
+    
+	<atom:link href="https://sdrtelecom.com.br/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Transmissão ao vivo</title>
+      <link>https://sdrtelecom.com.br/post/chapter-4/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://sdrtelecom.com.br/post/chapter-4/</guid>
+      <description>Com o objetivo de possibilitar que pessoas, grupos e empresas possam acompanhar seus eventos em tempo real sem necessidade de se deslocar para o local, o serviço de streaming da SDR Telecom foi desenvolvido para otimizar a transmissão de áudio e vídeo utilizando os padrões mais modernos atualmente no mercado. Utilizamos o codec VP9 e o container WebM, padrões atualmente utilizados pelos principais sites de video como Youtube e Vimeo. Além de garantir a alta qualidade de imagem e som essa tecnologia de código aberto permite baratear o custo do produto final para o cliente.</description>
+    </item>
+    
+    <item>
+      <title>Consultoria sobre Digital Radio Mondiale</title>
+      <link>https://sdrtelecom.com.br/post/chapter-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://sdrtelecom.com.br/post/chapter-1/</guid>
+      <description>Em 2017 o DRM (Digital Radio Mondiale) com o middleware Ginga possivelmente será o padrão adotado pelo governo para o SBRD (Sistema Brasileiro de Rádio Digital). Há mais de 6 anos trabalhando com o DRM e o Ginga a SDR Telecom oferece consultoria e treinamento para emissoras, centros de pesquisa, indústria de receptores ou qualquer interessado em conhecer profundamente o DRM e o middleware para interatividade brasileiro Ginga.
+A EBC, em parceria com a SDR Telecom, realizou o primeiro teste de rádio digital em Ondas Curtas do país.</description>
+    </item>
+    
+  </channel>
+</rss>

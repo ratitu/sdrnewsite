@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SDR Telecom</title>
+    <link>https://sdrtelecom.com.br/</link>
+    <description>Recent content on SDR Telecom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Apr 2017 11:14:48 -0400</lastBuildDate>
+    
+	<atom:link href="https://sdrtelecom.com.br/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Transmissão ao vivo</title>
+      <link>https://sdrtelecom.com.br/post/chapter-4/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://sdrtelecom.com.br/post/chapter-4/</guid>
+      <description>Com o objetivo de possibilitar que pessoas, grupos e empresas possam acompanhar seus eventos em tempo real sem necessidade de se deslocar para o local, o serviço de streaming da SDR Telecom foi desenvolvido para otimizar a transmissão de áudio e vídeo utilizando os padrões mais modernos atualmente no mercado. Utilizamos o codec VP9 e o container WebM, padrões atualmente utilizados pelos principais sites de video como Youtube e Vimeo. Além de garantir a alta qualidade de imagem e som essa tecnologia de código aberto permite baratear o custo do produto final para o cliente.</description>
+    </item>
+    
+    <item>
+      <title>A SDR Telecom está lançando o SDR-M</title>
+      <link>https://sdrtelecom.com.br/post/chapter-3/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      
+      <guid>https://sdrtelecom.com.br/post/chapter-3/</guid>
+      <description>Depois de estabelecido o padrão de TV digital, o Ministério das Comunicações está estudando como será a implantação da rádio digital no país. O padrão DRM garante ao Sistema Brasileiro de Rádio Digital maior flexibilidade de operação, melhor qualidade de serviço, menor custo, além de permitir interatividade, graças as middleware GInga Para garantir a rápida adoção do DRM pelo país, a SDR está lançando o SDR-M!
+O SDR-M é um servidor de conteúdo, encoder e excitador DRM completo.</description>
+    </item>
+    
+    <item>
+      <title>Desenvolvimento de sistemas de Rádio Definido por Software</title>
+      <link>https://sdrtelecom.com.br/post/chapter-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://sdrtelecom.com.br/post/chapter-2/</guid>
+      <description>Desenvolvimento de sistemas de Rádio Definido por Software compatíveis com padrões já existentes, tais como o GSM, LTE, WiFi, ISDB-T, DRM, AM, FM, SSB, ou desenvolvido a partir de demandas específicas. Exemplos de sistema em teste são para enlaces de longa distância (&amp;gt; 100km) utilizando Ondas Curtas e instalação de BTS de telefonia móvel em localidades isoladas.</description>
+    </item>
+    
+    <item>
+      <title>Consultoria sobre Digital Radio Mondiale</title>
+      <link>https://sdrtelecom.com.br/post/chapter-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://sdrtelecom.com.br/post/chapter-1/</guid>
+      <description>Em 2017 o DRM (Digital Radio Mondiale) com o middleware Ginga possivelmente será o padrão adotado pelo governo para o SBRD (Sistema Brasileiro de Rádio Digital). Há mais de 6 anos trabalhando com o DRM e o Ginga a SDR Telecom oferece consultoria e treinamento para emissoras, centros de pesquisa, indústria de receptores ou qualquer interessado em conhecer profundamente o DRM e o middleware para interatividade brasileiro Ginga.
+A EBC, em parceria com a SDR Telecom, realizou o primeiro teste de rádio digital em Ondas Curtas do país.</description>
+    </item>
+    
+    <item>
+      <title>Contato</title>
+      <link>https://sdrtelecom.com.br/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sdrtelecom.com.br/contact/</guid>
+      <description>Para contato, dúvidas e requisições à respeito dos nossos produtos tratar com: Rafael Diniz Telefone: + 55 11 998728111 Correio Eletrônico: diniz@sdrtelecom.com.br </description>
+    </item>
+    
+    <item>
+      <title>Produtos</title>
+      <link>https://sdrtelecom.com.br/produtos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sdrtelecom.com.br/produtos/</guid>
+      <description>Depois de estabelecido o padrão de TV digital, o Ministério das Comunicações está estudando como será a implantação da rádio digital no país. O padrão DRM garante ao Sistema Brasileiro de Rádio Digital maior flexibilidade de operação, melhor qualidade de serviço, menor custo, além de permitir interatividade, graças as middleware GInga
+Para garantir a rápida adoção do DRM pelo país, a SDR está lançando o SDR-M!
+O SDR-M é um servidor de conteúdo, encoder e excitador DRM completo.</description>
+    </item>
+    
+  </channel>
+</rss>
