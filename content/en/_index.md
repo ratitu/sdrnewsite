@@ -1,5 +1,5 @@
 ---
-title: "SDR Telecom"
+title: "SDR TELECOM"
 featured_image: '/images/logo.jpg'
 description: "Software Defined Radio"
 ---
